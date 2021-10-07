@@ -6,7 +6,7 @@
 
 # Description
 
-Tic-Tac-Toe is a simple web application that uses HTML, CSS, and Javascript to render the x's and o's.
+Tic-Tac-Toe is a simple web application that uses HTML, CSS, and Javascript to play tic-tac-toe.
 
 # Link to application
 
